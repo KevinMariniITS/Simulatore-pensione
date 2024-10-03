@@ -183,7 +183,7 @@ if salario > 0:
 
     # Aggiornamento del layout
     fig.update_layout(
-        title='Distribuzione della pensione attesa (P(x))<br><sup>Per vedere il valore delle linee verticale trascinare il mouse sull\'asse x = 0<br><sup>',
+        title='Distribuzione della pensione attesa (P(x))<br><sup>Per vedere il valore delle linee verticali trascinare il mouse sull\'asse x = 0<br><sup>',
         xaxis_title='Pensione attesa (P(x))',
         yaxis_title='Frequenza',
         width=1200,
