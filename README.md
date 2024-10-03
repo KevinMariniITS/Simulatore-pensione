@@ -57,7 +57,11 @@ https://www.oecd-ilibrary.org/docserver/678055dd-en.pdf?expires=1727993957&id=id
 
 ## Altre Fonti:
 Fonte per la ricerca dei requisiti di pensionabilità: https://www.fiscoetasse.com/approfondimenti/12731-eta-e-requisiti-per-andare-in-pensione-2024.html
+
 Fonte per l'applicazione del metodo contributivo: https://www.ipsoa.it/guide/calcolo-pensione
+
 Aliquote irpef (pre-riforma gov.Meloni + riforma gov.Meloni): https://www.agenziaentrate.gov.it/portale/imposta-sul-reddito-delle-persone-fisiche-irpef-/aliquote-e-calcolo-dell-irpef
+
 Normativa sui contratti di apprendistato: https://www.ipsoa.it/documents/quotidiano/2024/02/28/apprendistato-professionalizzante-incentivo-under-30-conviene-assunzioni#:~:text=Nel%202024%20i%20datori%20di,un%20rapporto%20di%20apprendistato%20professionalizzante.
+
 Coefficienti du trasformazione delle pensioni: https://www.itinerariprevidenziali.it/site/home/ilpunto/pensioni/coefficienti-di-trasformazione-piu-favorevoli-dal-2023-pensioni-piu-generose.html
