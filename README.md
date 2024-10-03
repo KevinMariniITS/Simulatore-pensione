@@ -25,6 +25,8 @@ contribuzione utilizzata per calcolare l’ammontare di contributi
 
 Presi i dati OCSE, un ventiduenne entrano nel mondo del lavoro da 4 anni (2020-2024) potrebbe aderire alla pensione ad un'età minima pari a 71 anni.
 Preso atto anche di queste previsioni scarsamente incoraggianti, il modello si basa su una arbitraria compensazione di modelli premianti e punitivi, sia sulla base delle normative attualmente vigenti + alcuni criteri di scelta applicati dall'autore del codice.
+
+https://www.oecd-ilibrary.org/docserver/678055dd-en.pdf?expires=1727993957&id=id&accname=guest&checksum=872D38C1D162FFBCE0F30907AA087510 (pag.43)
 ### Fattori premianti:
 ##### 1) Possibilità di intraprendere una carriera lavorativa continuativa e con adeguati meccanismi di crescita salariale (scatti d'anzianità + salti di lvl ogni 5 anni).
 ##### 2) Libertà di scelta rispetto all'età pensionabile, potendo così avere una visione maggiormente responsabilizzante rispetto ai contributi versati durante la propria carriera lavorativa; consapevoli del fatto che tale condizionalità risulterebbe insostenibile per il bilancio INPS, questa libertà può essere rimossa inserendo l'applicazione della legge Fornero all'interno del medesimo codice.
