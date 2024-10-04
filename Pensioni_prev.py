@@ -141,6 +141,11 @@ if salario > 0:
             montecarlo = round(rd.normalvariate(pensione_def_netta, pensione_def_netta_std), 2)
         outputs.append(montecarlo)
 
+    st.write(f"I tuoi anni lavorativi saranno di {a_lav} anni")
+    st.write(f"Il tuo montante contributivo sarà di {montante_IVS} euro")
+    st.write(f"La tua pensione lorda sarà di {pensione_def_lorda} euro")
+    st.write(f"La tua pensione netta sarà di {pensione_def_netta} euro")
+
     #Dataframe
     df = pd.DataFrame({"Pensione attesa (P(x))": outputs})
 
@@ -199,10 +204,7 @@ if salario > 0:
 
     # Mostra il grafico
     st.plotly_chart(fig)
-    st.write(f"I tuoi anni lavorativi saranno di {a_lav} anni")
-    st.write(f"Il tuo montante contributivo sarà di {montante_IVS} euro")
-    st.write(f"La tua pensione lorda sarà di {pensione_def_lorda} euro")
-    st.write(f"La tua pensione netta sarà di {pensione_def_netta} euro")
+
 
 
 
