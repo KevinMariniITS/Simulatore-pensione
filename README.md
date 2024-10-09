@@ -1,5 +1,5 @@
 # Simulatore-pensione
- L'obiettivo di questo notebook è cercare di estimare quale sarà la rendita contributiva mensile di un futuro pensionato, il metodo di calcolo terrà conto del pieno calcolo contributivo, ovvero di tutta la forza lavoro che avvierà la propria carriera lavorativa in un intervallo di tempo successivo alla riforma Fornero del 2011(no anzianità contrib)
+ L'obiettivo di questo notebook è cercare di estimare quale sarà la rendita contributiva mensile di un futuro pensionato, il metodo di calcolo terrà conto del pieno calcolo contributivo, ovvero di tutta la forza lavoro che avvierà la propria carriera lavorativa in un intervallo di tempo successivo alla riforma Fornero del 2011(senza considerare il vincolo dell'anzianità contrib)
 
 ## Rapporto mef di riferimento:
 https://www.rgs.mef.gov.it/_Documenti/VERSIONE-I/Attivit--i/Spesa-soci/Attivita_di_previsione_RGS/2023/Rapporto-2023.pdf
