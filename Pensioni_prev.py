@@ -114,7 +114,7 @@ if salario > 0:
 
     # Coefficienti di trasformazione
     array_coeff_tr = np.array([0.042, 0.0434, 0.0414, 0.04532, 0.04657, 0.0479, 0.04910, 0.0506, 0.0522, 0.05391, 0.0575])
-    array_anni = np.arange(61, 72)
+    array_anni = np.arange(61, 73)
     index_eta_pensionabile = np.where(array_anni == eta_pensionabile)[0][0]
     coeff = array_coeff_tr[index_eta_pensionabile] 
 
