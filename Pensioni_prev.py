@@ -10,7 +10,7 @@ st.title("Simulatore pensione")
 st.warning("""
 **⚠️ Attenzione:**
 
-- Il lavoro in questione si rivolge ad un target di persone che ha avviato da poco la propria carriera lavorativa, o qualora ne abbia già avute queste sono intercorse in un intervallo di tempo scarsamente significativo per dare rilevanza ai contributi versati nel periodo.
+- Il lavoro in questione si rivolge ad un target di persone che ha avviato da poco la propria carriera lavorativa, o qualora abbia già avuto delle exp sono comunque intercorse in un intervallo di tempo scarsamente significativo per dare rilevanza ai contributi versati nel periodo.
 
 - I risultati della previsione sono soltanto a puro scopo indicativo, pertanto è FORTEMENTE SCONSIGLIATO trarre conclusioni/ intrapendere scelte sui propri futuri scenari pensionistici facendo affidamento ai dati presenti in questa app.
 
