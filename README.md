@@ -1,5 +1,7 @@
 # Simulatore-pensione
- L'obiettivo di questo notebook è cercare di estimare quale sarà la rendita contributiva mensile di un futuro pensionato, il metodo di calcolo terrà conto del pieno calcolo contributivo, ovvero di tutta la forza lavoro che avvierà la propria carriera lavorativa in un intervallo di tempo successivo alla riforma Fornero del 2011(senza considerare il vincolo dell'anzianità contrib)
+L'obiettivo di questo notebook è cercare di estimare quale sarà la rendita contributiva mensile di un futuro pensionato, il metodo di calcolo terrà conto del pieno calcolo contributivo, ovvero di tutta la forza lavoro che avvierà la propria carriera lavorativa in un intervallo di tempo successivo alla riforma Fornero del 2011(senza considerare il vincolo dell'anzianità contrib).
+
+N.B: Il lavoro in questione si rivolge ad un target di persone che ha avviato da poco la propria carriera lavorativa, o qualora ne abbia già avute queste sono intercorse in un intervallo di tempo scarsamente significativo per dare rilevanza ai contributi versati nel periodo. 
 
 ## Rapporto mef di riferimento:
 https://www.rgs.mef.gov.it/_Documenti/VERSIONE-I/Attivit--i/Spesa-soci/Attivita_di_previsione_RGS/2023/Rapporto-2023.pdf
@@ -41,7 +43,7 @@ https://www.oecd-ilibrary.org/docserver/678055dd-en.pdf?expires=1727993957&id=id
 2) Libertà di scelta rispetto all'età pensionabile, potendo così avere una visione maggiormente responsabilizzante rispetto ai contributi versati durante la propria carriera lavorativa; consapevoli del fatto che tale condizionalità risulterebbe insostenibile per il bilancio INPS, questa libertà può essere rimossa inserendo l'applicazione della legge Fornero all'interno del medesimo codice.
 3) Applicazione della massima aliquota contributiva per i contratti di apprendistato (15,85%), senza tener conto degli sgravi per aziende aventi meno di 9 dipendenti, così come per lo sgravio del 100% a carico dei datori di lavoro a 12 mesi dal passaggio da contratto di appr. al contratto a tempo indet. (fino ad un tetto max di 3000 euro con la normativa attuale).
 4) Sempre con l'applicazione della Legge Fornero, possibilità di riscattare gli anni di Laurea (Triennale 3 anni + Magistrale 2 anni) + il riconoscimento del servizio civile universale, utili per abbattere gli anni necessari per l'ottenimento dell'età pensionabile.
-5) Per gli autonomi l'aliquota contributiva è del 26,7%, senza tenere conto delle differenze fra le singole casse professionale nel tentativo di massimizzare la cifra versata.
+5) Per gli autonomi l'aliquota contributiva è del 26,7%, senza tenere conto delle differenze fra le singole casse professionali nel tentativo di massimizzare la cifra versata.
 
 ### Fattori punitivi:
 0) Rimozione del periodo di tirocinio dal computo della pensione (vista la normativa il periodo di stage non prevede il versamento di contributi).
