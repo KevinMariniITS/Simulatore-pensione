@@ -66,4 +66,4 @@ Aliquote irpef (pre-riforma gov.Meloni + riforma gov.Meloni): https://www.agenzi
 
 Normativa sui contratti di apprendistato: https://www.ipsoa.it/documents/quotidiano/2024/02/28/apprendistato-professionalizzante-incentivo-under-30-conviene-assunzioni#:~:text=Nel%202024%20i%20datori%20di,un%20rapporto%20di%20apprendistato%20professionalizzante.
 
-Coefficienti du trasformazione delle pensioni: https://www.itinerariprevidenziali.it/site/home/ilpunto/pensioni/coefficienti-di-trasformazione-piu-favorevoli-dal-2023-pensioni-piu-generose.html
+Coefficienti di trasformazione delle pensioni: https://www.itinerariprevidenziali.it/site/home/ilpunto/pensioni/coefficienti-di-trasformazione-piu-favorevoli-dal-2023-pensioni-piu-generose.html
